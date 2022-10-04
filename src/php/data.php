@@ -78,6 +78,6 @@ function checker($x, $y, $r) {
         return true;
     }
     else{
-        return false
+        return false;
     }
 }
